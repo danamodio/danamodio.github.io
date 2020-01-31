@@ -1,2 +1,3 @@
 name: Dan Amodio
 markdown: kramdown
+permalink: /:title
